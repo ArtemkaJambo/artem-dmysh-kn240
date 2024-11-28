@@ -9,6 +9,7 @@ requests = "*"
 [dev-packages]
 pytest = "*"
 coverage = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.12"
